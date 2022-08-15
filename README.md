@@ -11,3 +11,5 @@ Please share feedback by [creating an issue](https://github.com/step-security/fe
 ### Disclosing security issues
 
 If you believe you have found a security vulnerability in the Step Security Github App, please email [info@stepsecurity.io](mailto:info@stepsecurity.io)
+
+
